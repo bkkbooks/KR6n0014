@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6n0014/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 瑜伽論劫章頌
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X47/X47n0794.xml
+    old_id: X47n0794
+hash: sha256:9cf7a71273bb10aa6159252fd6e4736e2e18181e48ef4daff4c1ce8b7d7f1daa

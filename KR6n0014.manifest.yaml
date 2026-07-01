@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR6n0014/v1
+canonical_location: https://kanripo.org/bkk/KR6n0014/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 瑜伽論劫章頌
+  identifiers:
+    alt_id:
+    - X47n0794
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X47/X47n0794.xml
+    old_id: X47n0794
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0014_000.yaml, hash: 'sha256:9cf7a71273bb10aa6159252fd6e4736e2e18181e48ef4daff4c1ce8b7d7f1daa'}
+  - {seq: 1, filename: KR6n0014_001.yaml, hash: 'sha256:18e2d53a7ce5cc0fd9232ae244028f7a52a6fbe24657988d47bdd73add0883c8'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6n0014_001.markers.yaml, hash: 'sha256:5945df7550c29370de810c9e2e07b7458a6d73456e60dea1a9c800713d579026'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6n0014_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 1030
+  label: 劫章頌
+  type: juan
+  level: 1
+hash: sha256:299e67df1355c85b44896bf3914bf5e235064dc3e2bdd90eb023a1c719180e67
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: X
