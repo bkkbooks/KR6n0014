@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6n0014_000.yaml, hash: 'sha256:9cf7a71273bb10aa6159252fd6e4736e2e18181e48ef4daff4c1ce8b7d7f1daa'}
-  - {seq: 1, filename: KR6n0014_001.yaml, hash: 'sha256:18e2d53a7ce5cc0fd9232ae244028f7a52a6fbe24657988d47bdd73add0883c8'}
+  - {seq: 1, filename: KR6n0014_001.yaml, hash: 'sha256:a9cb14d2960542f42ad73472bafe785f47e68f579c506e31b8b84e668507b827'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6n0014_001.markers.yaml, hash: 'sha256:5945df7550c29370de810c9e2e07b7458a6d73456e60dea1a9c800713d579026'}
+  - {seq: 0, role: markers, filename: assets/KR6n0014_000.markers.yaml, hash: 'sha256:60215713e64d0c936d8e06c852c8904408d7c5cf8b0e171dc4870b83865c6f8a'}
+  - {seq: 1, role: markers, filename: assets/KR6n0014_001.markers.yaml, hash: 'sha256:ecd76ea0faa2dcfd58986bc82edc0f1fb7232867822525ec3116983c60e58027'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,9 +32,6 @@ table_of_contents:
   label: 劫章頌
   type: juan
   level: 1
-hash: sha256:299e67df1355c85b44896bf3914bf5e235064dc3e2bdd90eb023a1c719180e67
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:c58eb0f89471e2f60b28404014b0c239116e58952493b342581ca9a953f2644c
 editions:
 - short: X
