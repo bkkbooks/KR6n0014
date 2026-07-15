@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6n0014/v1
 canonical_location: https://kanripo.org/bkk/KR6n0014/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 瑜伽論劫章頌
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6n0014_000.yaml, hash: 'sha256:9cf7a71273bb10aa6159252fd6e4736e2e18181e48ef4daff4c1ce8b7d7f1daa'}
-  - {seq: 1, filename: KR6n0014_001.yaml, hash: 'sha256:a9cb14d2960542f42ad73472bafe785f47e68f579c506e31b8b84e668507b827'}
+  - {seq: 1, filename: KR6n0014_001.yaml, hash: 'sha256:18e2d53a7ce5cc0fd9232ae244028f7a52a6fbe24657988d47bdd73add0883c8'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6n0014_000.markers.yaml, hash: 'sha256:60215713e64d0c936d8e06c852c8904408d7c5cf8b0e171dc4870b83865c6f8a'}
-  - {seq: 1, role: markers, filename: assets/KR6n0014_001.markers.yaml, hash: 'sha256:ecd76ea0faa2dcfd58986bc82edc0f1fb7232867822525ec3116983c60e58027'}
+  - {seq: 1, role: markers, filename: assets/KR6n0014_001.markers.yaml, hash: 'sha256:22f7280583cf52039696e91ea128cbd69582c2a62bb46125c5275ec56ace2239'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,6 +32,9 @@ table_of_contents:
   label: 劫章頌
   type: juan
   level: 1
-hash: sha256:c58eb0f89471e2f60b28404014b0c239116e58952493b342581ca9a953f2644c
+hash: sha256:a67532beb53ebc3a55fb023bfd20cfcedae9d9cce9b0d0e484a24b7f02e4ebed
 editions:
 - short: X
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
